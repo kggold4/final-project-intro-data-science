@@ -8,6 +8,6 @@
 
 ## Welcome to the final project in the introduction to data science cource!
 ### In this project you will find three main jupyter notebooks:
-1. notebook1 - 
-2. 
-3. 
+1. notebook1 - Statistics and Probability
+2. notebook2 - Python Programming
+3. notebook3 - Machine Learning
