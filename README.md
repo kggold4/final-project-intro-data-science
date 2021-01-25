@@ -14,3 +14,7 @@
 1. notebook1 - Statistics and Probability
 2. notebook2 - Python Programming
 3. notebook3 - Machine Learning
+
+<br>
+
+* find course repository in <a href="https://github.com/kggold4/intro-to-data-sciense-course">course repository</a>
