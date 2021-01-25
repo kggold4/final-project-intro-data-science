@@ -8,7 +8,7 @@
 
 <br>
 
-## Welcome to the final project in the introduction to data science cource!
+## Welcome to the final project in the introduction to data science cource at Ariel University!
 
 ### In this project you will find three main jupyter notebooks:
 1. notebook1 - Statistics and Probability
