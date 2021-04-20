@@ -17,4 +17,4 @@
 
 <br>
 
-* find course repository in <a href="https://github.com/kggold4/intro-to-data-sciense-course">course repository</a>
+* find course repository in <a href="https://github.com/kggold4/computer-science-b.a-materials/tree/main/year%201/%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D">course repository</a>
